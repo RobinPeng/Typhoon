@@ -1,0 +1,12 @@
+{
+  "require": {
+    "symfony/http-kernel": "2.8.*",
+    "symfony/http-foundation": "2.8.*",
+    "symfony/event-dispatcher": "2.8.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Typhoon\\": "framework"
+    }
+  }
+}
